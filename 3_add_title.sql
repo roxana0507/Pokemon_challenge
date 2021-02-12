@@ -1,0 +1,2 @@
+ALTER TABLE posts
+ADD title VARCHAR(80);
